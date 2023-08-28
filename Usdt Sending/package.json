@@ -1,0 +1,15 @@
+{
+  "name": "usdt-sending",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bsc.sending.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-rsa": "^1.1.1",
+    "tronweb": "^5.3.0"
+  }
+}
